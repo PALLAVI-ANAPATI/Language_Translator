@@ -4,6 +4,8 @@
 The Language Translator Web App is a simple yet powerful web-based tool that enables users to translate text between multiple languages. Built using Quart (a Python web framework) and Google Translate API, it offers a seamless experience with additional features like text-to-speech pronunciation, copy to clipboard, and a falling snowflake animation for aesthetics.
 
 
+![imgalt](https://github.com/PALLAVI-ANAPATI/Language_Translator/blob/main/01.png)
+
 ## ✨ 2. Features:
  ✅ Multi-Language Translation – Translate between various languages.
 
@@ -37,7 +39,3 @@ The Language Translator Web App is a simple yet powerful web-based tool that ena
 5.Click the "Speaker" icon to hear the translated text.
 
 6.Click the "Copy" button to copy the translated text.
-
-
-
-
